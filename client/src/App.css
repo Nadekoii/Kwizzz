@@ -1,0 +1,34 @@
+.App{
+  background-color: #073b4c;
+}
+
+.header{
+  background-color: #06d6a0 ;
+}
+
+.login{
+  background-color: #ff9c5f ;
+}
+
+.questions{
+  background-color: #118ab2 ;
+}
+
+.question-block{
+  border-color: #ef476f;
+  border-style: solid;
+  padding:10px;
+  background-color: #ffd166 ;
+  margin-bottom:15px;
+}
+
+.question{
+  padding:10px;
+  font-weight: bold;
+}
+
+#site-footer{
+  background-color: #118ab2;
+  padding : 20px;
+  color: lightgray;
+}
