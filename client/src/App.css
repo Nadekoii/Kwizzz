@@ -1,5 +1,5 @@
 .App{
-  background-color: #073b4c;
+  background-color: #005875;
 }
 
 .header{
@@ -14,6 +14,11 @@
   background-color: #118ab2 ;
 }
 
+ul {
+  list-style-type: none;
+  padding-left: 10px;
+}
+
 .question-block{
   border-color: #ef476f;
   border-style: solid;
@@ -25,6 +30,14 @@
 .question{
   padding:10px;
   font-weight: bold;
+}
+
+.gif-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  height: 0px;
 }
 
 #site-footer{
