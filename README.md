@@ -32,13 +32,13 @@ Ensure you have the following installed on your system:
      ```sh
      cd client
      npm install  # Install dependencies (first time only)
-     npm run dev  # Start the frontend
+     npm run start  # Start the frontend
      ```
    - In the second terminal, navigate to the server folder and start the backend:
      ```sh
      cd server
      npm install  # Install dependencies (first time only)
-     npm run dev  # Start the backend
+     npm run start  # Start the backend
      ```
 
 3. Open your browser and navigate to the specified local URL to start playing Kwizzz!
